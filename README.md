@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin Walczak</h1>
 
 
-<p align="center">**`WEB/FRONTEND DEVELOPER`**</p>
+**`WEB/FRONTEND DEVELOPER`**
 
 
 
