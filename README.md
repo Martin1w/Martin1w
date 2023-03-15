@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcin Walczak</h1>
-<h3 align="center">**`web/frontend developer`**</h3>
+**`web/frontend developer`**
 
 
 
