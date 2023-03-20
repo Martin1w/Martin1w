@@ -20,7 +20,6 @@
 
 📫 How to reach me **marcin.walczak282@gmail.com**
 
-<h4 align="left">Connect with me:</h4>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcin_qu) 
 
